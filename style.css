@@ -10,3 +10,5 @@ p {
     body{
         background-color: blanchedalmond;
     }
+/* usamos # para identificar o id */
+    #paragrafo-footer{text-align:justify ;}
