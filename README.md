@@ -1,2 +1,1 @@
-"# Mini-Site" 
-"# Mini-Site" 
+"# Mini-site" 
