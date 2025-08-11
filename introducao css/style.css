@@ -1,4 +1,4 @@
-h1 {color:rgb(255, 145, 0);text-align: ;}
+h1 {color:rgb(255, 145, 0);text-align: 2;}
 
 p {
    color: coral; 
@@ -11,4 +11,5 @@ p {
         background-color: blanchedalmond;
     }
 /* usamos # para identificar o id */
+
     #paragrafo-footer{text-align:justify ;}
